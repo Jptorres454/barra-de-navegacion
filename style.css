@@ -54,6 +54,10 @@ header h1{
     color: #6c6a6a;
 }
 
+.direccionamiento{
+    text-decoration: none;
+    color: #ffffff;
+}
 .drop-down-menu-content a{
     float: none;
     color: #5d5e60;
